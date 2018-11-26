@@ -20,7 +20,7 @@ git clone https://github.com/plgreenLIRU/GMM
 git clone https://github.com/plgreenLIRU/Gaussian-Process-regression-tutorial
 git clone https://github.com/plgreenLIRU/Gaussian-Process-SparseGP-Tutorial
 git clone https://github.com/plgreenLIRU/git_backup_scripts
-
+git clone https://github.com/plgreenLIRU/twitter
 
 
 
