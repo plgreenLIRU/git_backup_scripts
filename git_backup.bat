@@ -21,7 +21,9 @@ git clone https://github.com/plgreenLIRU/Gaussian-Process-regression-tutorial
 git clone https://github.com/plgreenLIRU/Gaussian-Process-SparseGP-Tutorial
 git clone https://github.com/plgreenLIRU/git_backup_scripts
 git clone https://github.com/plgreenLIRU/twitter
-
+git clone https://github.com/plgreenLIRU/logit_regression
+git clone https://github.com/plgreenLIRU/semi_supervised_learning_tutorial
+git clone https://github.com/plgreenLIRU/SMC
 
 
 
