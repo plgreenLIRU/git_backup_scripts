@@ -17,7 +17,7 @@ git clone https://github.com/plgreenLIRU/git_backup_scripts
 git clone https://github.com/plgreenLIRU/semi_supervsied_learning_tutorial
 git clone https://github.com/plgreenLIRU/twitter
 git clone https://github.com/plgreenLIRU/LIFE2
-git clone https://github.com/plgreenLIRU/test
+git clone https://github.com/plgreenLIRU/Java
 git clone https://github.com/plgreenLIRU/AM_paper
 git clone https://github.com/plgreenLIRU/Gaussian-Process-regression-tutorial
 git clone https://github.com/plgreenLIRU/Gaussian-Process-SparseGP-Tutorial
