@@ -9,21 +9,18 @@ mkdir git_backup_%date:/=%
 cd git_backup_%date:/=%
 
 :: Backup everything you want to using standard git commands
-git clone https://github.com/plgreenLIRU/GP-Regression-Development
+git clone https://github.com/plgreenLIRU/Machine_Learning
+git clone https://github.com/plgreenLIRU/AM_research
 git clone https://github.com/plgreenLIRU/MCMC
-git clone https://github.com/plgreenLIRU/test
 git clone https://github.com/plgreenLIRU/French
+git clone https://github.com/plgreenLIRU/git_backup_scripts
+git clone https://github.com/plgreenLIRU/semi_supervsied_learning_tutorial
+git clone https://github.com/plgreenLIRU/twitter
 git clone https://github.com/plgreenLIRU/LIFE2
+git clone https://github.com/plgreenLIRU/test
 git clone https://github.com/plgreenLIRU/AM_paper
-git clone https://github.com/sgrjack2/GUI
-git clone https://github.com/plgreenLIRU/GMM
 git clone https://github.com/plgreenLIRU/Gaussian-Process-regression-tutorial
 git clone https://github.com/plgreenLIRU/Gaussian-Process-SparseGP-Tutorial
-git clone https://github.com/plgreenLIRU/git_backup_scripts
-git clone https://github.com/plgreenLIRU/twitter
-git clone https://github.com/plgreenLIRU/logit_regression
-git clone https://github.com/plgreenLIRU/semi_supervised_learning_tutorial
-git clone https://github.com/plgreenLIRU/SMC
 
 
 
