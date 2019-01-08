@@ -21,6 +21,7 @@ git clone https://github.com/plgreenLIRU/Java
 git clone https://github.com/plgreenLIRU/AM_paper
 git clone https://github.com/plgreenLIRU/Gaussian-Process-regression-tutorial
 git clone https://github.com/plgreenLIRU/Gaussian-Process-SparseGP-Tutorial
+git clone https://github.com/plgreenLIRU/SMC_public
 
 
 
